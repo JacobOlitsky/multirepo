@@ -1,5 +1,5 @@
 {
-  "name": "subrepo-b",
+  "name": "@jacobolitsky/subrepo-b",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
